@@ -1,0 +1,10 @@
+
+
+Task 1
+
+gcloud storage buckets create gs://<Bucket_Name>
+
+
+Task 2:
+
+gcloud pubsub topics create <Pub/Sub_topic>
